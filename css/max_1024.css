@@ -1,0 +1,12 @@
+/* Media Queries - Max Width 1024px */
+
+.container {
+width: 90%;
+}
+
+.slogan-bg {
+height: 400px;
+}
+.slogan {
+padding-top: 150px;
+}

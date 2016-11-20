@@ -1,0 +1,9 @@
+/* Media Queries - Max Width 510px */
+
+.footer-left {
+width: 96%;
+text-align: center;
+}
+.footer-right {
+display: none;
+}

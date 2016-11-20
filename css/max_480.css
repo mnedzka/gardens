@@ -1,0 +1,57 @@
+/* Media Queries - Max Width 480px */
+
+.container {
+width: 100%;
+}
+
+header nav ul li {
+display: block;
+width: 100%;
+}
+
+header nav ul li a {
+height: 40px;
+line-height: 40px;
+border-bottom: 1px solid #7cb029;
+}
+
+header nav ul.visible {
+display: block;
+}
+
+.slogan-bg {
+height: 200px;
+}
+
+.slogan {
+padding-top: 60px;
+font-size: 2em;
+line-height: 1.7em;
+}
+
+.desc {
+position: relative;
+padding: 0%;
+}
+
+.box h2 {
+padding: 4% 2% 0% 2%;
+}
+.box p {
+padding: 2%;
+}
+
+span.readmore a {
+display: block;
+float: none;
+padding: 3% 0%;
+margin: 0;
+}
+
+.realizations-box {
+width: 100%;
+}
+
+.content {
+padding: 0 4%;
+}
